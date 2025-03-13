@@ -1,0 +1,72 @@
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\bin\Debug\net9.0\EasyOrderAPI.staticwebassets.endpoints.json
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\bin\Debug\net9.0\EasyOrderAPI.exe
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\bin\Debug\net9.0\EasyOrderAPI.deps.json
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\bin\Debug\net9.0\EasyOrderAPI.runtimeconfig.json
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\bin\Debug\net9.0\EasyOrderAPI.dll
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\bin\Debug\net9.0\EasyOrderAPI.pdb
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.csproj.AssemblyReference.cache
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.AssemblyInfoInputs.cache
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.AssemblyInfo.cs
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.csproj.CoreCompileInputs.cache
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\scopedcss\bundle\EasyOrderAPI.styles.css
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets\msbuild.EasyOrderAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets\msbuild.EasyOrderAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.EasyOrderAPI.props
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EasyOrderAPI.props
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EasyOrderAPI.props
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrde.1348803A.Up2Date
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.dll
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\refint\EasyOrderAPI.dll
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.pdb
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.genruntimeconfig.cache
+C:\Users\jucim\Downloads\Teste Técnico CodgoX\EasyOrderAPI\obj\Debug\net9.0\ref\EasyOrderAPI.dll
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\bin\Debug\net9.0\EasyOrderAPI.staticwebassets.endpoints.json
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\bin\Debug\net9.0\EasyOrderAPI.exe
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\bin\Debug\net9.0\EasyOrderAPI.deps.json
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\bin\Debug\net9.0\EasyOrderAPI.runtimeconfig.json
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\bin\Debug\net9.0\EasyOrderAPI.dll
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\bin\Debug\net9.0\EasyOrderAPI.pdb
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.csproj.AssemblyReference.cache
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.AssemblyInfoInputs.cache
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.AssemblyInfo.cs
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.csproj.CoreCompileInputs.cache
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\scopedcss\bundle\EasyOrderAPI.styles.css
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets\msbuild.EasyOrderAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets\msbuild.EasyOrderAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.EasyOrderAPI.props
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EasyOrderAPI.props
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EasyOrderAPI.props
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrde.1348803A.Up2Date
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.dll
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\refint\EasyOrderAPI.dll
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.pdb
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\EasyOrderAPI.genruntimeconfig.cache
+C:\Users\jucim\Downloads\TesteTecnicoCodgoX\EasyOrderAPI\obj\Debug\net9.0\ref\EasyOrderAPI.dll
