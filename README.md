@@ -25,7 +25,7 @@ Primeiramente, para que tudo ocorra bem, você precisa ter no seu ambiente o .NE
 
 - .NET SDK: Version 9.0.200  
 
-Após verificar a versão do .NET no seu ambiente, será necessário fazer o clone do projeto da branch master. Com o projeto baixado, na raiz do seu projeto, para executar, basta digitar o comando no seu cmd ou powershell:
+Após verificar a versão do .NET no seu ambiente, será necessário fazer o clone do projeto da branch master. Com o projeto baixado, na raiz do seu projeto, basta digitar o comando no seu terminal cmd, powershell ou terminal linux:
 
 `dotnet run`
 
@@ -34,3 +34,7 @@ Obs: O projeto já está configurado para acessar os endpoints pelo swagger. Os 
 No terminal será mostrado o localhost parecido com este: `http://localhost:5182`, que aponta para onde a API está rodando. Para acessar os endpoints, basta digitar depois da porta dessa forma: http://localhost:5182/api/pedidos.
 
 A API armezena os dados temporariamente em memória, não possuindo ainda um banco de dados para persistir os dados. Caso queira testar no aplicativo que está neste link: https://github.com/JucimarJunior/meu-pedido-online/tree/master, basta colocar na URL BASE, o link `http://localhost:<porta gerada>`.
+
+## Exemplo dos Endpoints no Swagger
+
+![apiordersswagger](https://github.com/user-attachments/assets/48e31e90-c729-4ded-8f5a-4bead75d451f)
